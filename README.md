@@ -15,7 +15,7 @@
 <img src='https://i.ibb.co/RSBkP9M/download.png' alt='' width=45%, height=300> 
 <img src='https://i.ibb.co/hd5mDBK/download.png' alt='' width=45%, height=300>  
 
-<h3>Multivariate Analysis</h3>
+<h3>Different Analysis Techniques</h3>
 <br> 
 
 >#### A. Multivariate Analysis  
