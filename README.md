@@ -33,3 +33,16 @@
 <img src='https://i.ibb.co/TWd9TNz/download.png' alt='' width=85%, height=400>
 <img src='https://i.ibb.co/Qp0YbBQ/download.png' alt='' width=85%, height=400>
 </div>
+
+
+Different Analysis Techniques
+- Univariate Analysis
+    - Outlier Detection
+        - TukeySimple: Tukey’s fences with the straightforward quantile estimation
+        - TukeyHd: Tukey’s fences with the Harrell-Davis quantile estimation
+        - MadSimple: MAD with the straightforward quantile estimation
+        - MadHd: MAD with the Harrell-Davis quantile estimation
+        - DoubleMadSimple: Double MAD with the straightforward quantile estimation
+        - DoubleMadHd: Double MAD with the Harrell-Davis quantile estimation
+- Bivariate Analysis
+- Multivariate Analysis
