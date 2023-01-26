@@ -16,18 +16,18 @@
 <img src='https://i.ibb.co/hd5mDBK/download.png' alt='' width=45%, height=300>  
 
 <h3>Different Analysis Techniques</h3>
-<br> 
+<br><br>
 
 >#### A. Multivariate Analysis  
 <img src='https://i.ibb.co/jbQfMTS/download.png' alt='' width=95%, height=600>
 <img src='https://i.ibb.co/Cb7P965/download.png' alt='' width=95%, height=600>
 
-<br> 
+<br><br> 
 
 >#### B. Bivariate Analysis
 <img src='https://i.ibb.co/Sr9LDNV/download.png' alt='' width=85%, height=400>
 
-<br>  
+<br><br> 
 
 >#### C. Univariate Analysis
 <img src='https://i.ibb.co/TWd9TNz/download.png' alt='' width=85%, height=400>
